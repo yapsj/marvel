@@ -38,7 +38,7 @@ The application will do get all characters ID and get character by ID that provi
 ** Not specifying logFilePath will use current directory of the executable as the log output folder.
 
 ## Running the project
-- Extract the downloaded REDIS server and double click **redis-server.exe** to start the server.
+- Extract the downloaded REDIS server and nagivate to the 64bit folder, double click **redis-server.exe** to start the server.
 - Run the script below to start the application.
 ```bash
 ./marvel.exe ./config.json {publickey} {privatekey}
