@@ -1,0 +1,943 @@
+INFO: 2021/06/26 23:56:28 main.go:39: Serving at localhost:8080
+INFO: 2021/06/26 23:56:40 service.go:35: Checking REDIS cache server for key: characters
+INFO: 2021/06/26 23:56:40 service.go:42: REDIS has no result, proceeding to query from marvel server.
+INFO: 2021/06/26 23:56:42 marvel.go:80: total: 1493, limit: 1
+INFO: 2021/06/26 23:56:42 marvel.go:104: checking offset: 1 
+INFO: 2021/06/26 23:56:42 marvel.go:120: Doing now length: 1 
+INFO: 2021/06/26 23:56:43 marvel.go:104: checking offset: 2 
+INFO: 2021/06/26 23:56:43 marvel.go:120: Doing now length: 1 
+INFO: 2021/06/26 23:56:43 service.go:45: RESULT from marvel server, length 2
+INFO: 2021/06/26 23:56:43 service.go:56: Setting to REDIS cache server, key: characters
+INFO: 2021/06/26 23:57:42 main.go:39: Serving at localhost:8080
+INFO: 2021/06/26 23:57:53 service.go:35: Checking REDIS cache server for key: characters
+INFO: 2021/06/26 23:57:53 service.go:42: REDIS has no result, proceeding to query from marvel server.
+INFO: 2021/06/26 23:57:54 marvel.go:80: total: 1493, limit: 1
+INFO: 2021/06/27 11:51:02 main.go:39: Serving at localhost:8080
+INFO: 2021/06/27 11:51:54 service.go:35: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 11:51:54 service.go:42: REDIS has no result, proceeding to query from marvel server.
+INFO: 2021/06/27 11:51:56 marvel.go:80: total: 1493, limit: 1
+INFO: 2021/06/27 11:51:56 marvel.go:104: checking offset: 1 
+INFO: 2021/06/27 11:51:56 marvel.go:120: Doing now length: 1 
+INFO: 2021/06/27 11:51:57 marvel.go:104: checking offset: 2 
+INFO: 2021/06/27 11:51:57 marvel.go:120: Doing now length: 1 
+INFO: 2021/06/27 11:51:57 service.go:45: RESULT from marvel server, length 3
+INFO: 2021/06/27 11:51:57 service.go:56: Setting to REDIS cache server, key: characters
+INFO: 2021/06/27 12:00:02 main.go:39: Serving at localhost:8080
+INFO: 2021/06/27 12:00:18 service.go:36: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 12:00:28 service.go:36: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 12:00:28 service.go:43: REDIS has no result, proceeding to query from marvel server.
+INFO: 2021/06/27 12:00:30 marvel.go:80: total: 1493, limit: 1
+INFO: 2021/06/27 12:00:30 marvel.go:104: checking offset: 1 
+INFO: 2021/06/27 12:00:30 marvel.go:120: Doing now length: 1 
+INFO: 2021/06/27 12:00:31 marvel.go:104: checking offset: 2 
+INFO: 2021/06/27 12:00:31 marvel.go:120: Doing now length: 1 
+INFO: 2021/06/27 12:00:31 service.go:46: RESULT from marvel server, length 2
+INFO: 2021/06/27 12:00:31 service.go:57: Setting to REDIS cache server, key: characters
+INFO: 2021/06/27 12:01:55 main.go:39: Serving at localhost:8080
+INFO: 2021/06/27 12:01:59 service.go:35: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 12:02:06 service.go:35: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 12:02:06 service.go:42: REDIS has no result, proceeding to query from marvel server.
+INFO: 2021/06/27 12:02:07 marvel.go:80: total: 1493, limit: 1
+INFO: 2021/06/27 12:02:08 marvel.go:104: checking offset: 1 
+INFO: 2021/06/27 12:02:08 marvel.go:120: Doing now length: 1 
+INFO: 2021/06/27 12:02:08 marvel.go:104: checking offset: 2 
+INFO: 2021/06/27 12:02:08 marvel.go:120: Doing now length: 1 
+INFO: 2021/06/27 12:08:29 main.go:39: Serving at localhost:8080
+INFO: 2021/06/27 12:08:34 service.go:35: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 12:08:34 service.go:42: REDIS has no result, proceeding to query from marvel server.
+INFO: 2021/06/27 12:08:35 marvel.go:80: total: 1493, limit: 1
+INFO: 2021/06/27 12:28:13 main.go:39: Serving at localhost:8080
+INFO: 2021/06/27 12:28:19 service.go:35: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 12:28:20 service.go:42: REDIS has no result, proceeding to query from marvel server.
+INFO: 2021/06/27 12:28:21 marvel.go:80: total: 1493, limit: 1
+INFO: 2021/06/27 12:28:22 marvel.go:104: checking offset: 1 
+INFO: 2021/06/27 12:28:22 marvel.go:121: Doing now length: 1 
+INFO: 2021/06/27 12:28:22 marvel.go:104: checking offset: 2 
+INFO: 2021/06/27 12:28:22 marvel.go:121: Doing now length: 1 
+INFO: 2021/06/27 12:28:22 service.go:45: RESULT from marvel server, length 2
+INFO: 2021/06/27 12:28:22 service.go:56: Setting to REDIS cache server, key: characters
+INFO: 2021/06/27 12:29:03 main.go:39: Serving at localhost:8080
+INFO: 2021/06/27 12:29:05 service.go:35: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 12:29:06 service.go:42: REDIS has no result, proceeding to query from marvel server.
+INFO: 2021/06/27 12:29:07 marvel.go:80: total: 1493, limit: 1
+INFO: 2021/06/27 12:29:07 marvel.go:104: checking offset: 1 
+INFO: 2021/06/27 12:29:07 marvel.go:120: Doing now length: 1 
+INFO: 2021/06/27 12:29:08 marvel.go:104: checking offset: 2 
+INFO: 2021/06/27 12:29:08 marvel.go:120: Doing now length: 1 
+INFO: 2021/06/27 12:29:51 main.go:39: Serving at localhost:8080
+INFO: 2021/06/27 12:30:53 main.go:39: Serving at localhost:8080
+INFO: 2021/06/27 12:30:58 service.go:35: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 12:30:58 service.go:42: REDIS has no result, proceeding to query from marvel server.
+INFO: 2021/06/27 12:31:00 marvel.go:80: total: 1493, limit: 1
+INFO: 2021/06/27 12:31:00 marvel.go:104: checking offset: 1 
+INFO: 2021/06/27 12:31:00 marvel.go:122: Doing now length: 1 
+INFO: 2021/06/27 12:31:01 marvel.go:104: checking offset: 2 
+INFO: 2021/06/27 12:31:01 marvel.go:122: Doing now length: 1 
+INFO: 2021/06/27 12:31:01 service.go:46: RESULT from marvel server, length 2
+INFO: 2021/06/27 12:31:01 service.go:57: Setting to REDIS cache server, key: characters
+INFO: 2021/06/27 12:31:35 main.go:39: Serving at localhost:8080
+INFO: 2021/06/27 12:31:39 service.go:35: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 12:31:39 service.go:42: REDIS has no result, proceeding to query from marvel server.
+INFO: 2021/06/27 12:31:41 marvel.go:80: total: 1493, limit: 20
+INFO: 2021/06/27 12:31:42 marvel.go:104: checking offset: 20 
+INFO: 2021/06/27 12:31:42 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:43 marvel.go:104: checking offset: 40 
+INFO: 2021/06/27 12:31:43 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:43 marvel.go:104: checking offset: 60 
+INFO: 2021/06/27 12:31:43 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:43 marvel.go:104: checking offset: 80 
+INFO: 2021/06/27 12:31:43 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:43 marvel.go:104: checking offset: 100 
+INFO: 2021/06/27 12:31:43 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:43 marvel.go:104: checking offset: 120 
+INFO: 2021/06/27 12:31:43 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:43 marvel.go:104: checking offset: 140 
+INFO: 2021/06/27 12:31:43 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:43 marvel.go:104: checking offset: 160 
+INFO: 2021/06/27 12:31:43 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:43 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:43 marvel.go:104: checking offset: 180 
+INFO: 2021/06/27 12:31:43 marvel.go:104: checking offset: 200 
+INFO: 2021/06/27 12:31:43 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:43 marvel.go:104: checking offset: 220 
+INFO: 2021/06/27 12:31:43 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:43 marvel.go:104: checking offset: 240 
+INFO: 2021/06/27 12:31:43 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:43 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:43 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:43 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:43 marvel.go:104: checking offset: 260 
+INFO: 2021/06/27 12:31:43 marvel.go:104: checking offset: 260 
+INFO: 2021/06/27 12:31:43 marvel.go:104: checking offset: 260 
+INFO: 2021/06/27 12:31:43 marvel.go:104: checking offset: 320 
+INFO: 2021/06/27 12:31:43 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:43 marvel.go:104: checking offset: 340 
+INFO: 2021/06/27 12:31:43 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:43 marvel.go:104: checking offset: 360 
+INFO: 2021/06/27 12:31:43 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:43 marvel.go:104: checking offset: 380 
+INFO: 2021/06/27 12:31:43 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:43 marvel.go:104: checking offset: 400 
+INFO: 2021/06/27 12:31:43 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:43 marvel.go:104: checking offset: 420 
+INFO: 2021/06/27 12:31:43 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:43 marvel.go:104: checking offset: 440 
+INFO: 2021/06/27 12:31:43 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:43 marvel.go:104: checking offset: 460 
+INFO: 2021/06/27 12:31:43 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:44 marvel.go:104: checking offset: 480 
+INFO: 2021/06/27 12:31:44 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:44 marvel.go:104: checking offset: 500 
+INFO: 2021/06/27 12:31:44 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:44 marvel.go:104: checking offset: 520 
+INFO: 2021/06/27 12:31:44 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:44 marvel.go:104: checking offset: 540 
+INFO: 2021/06/27 12:31:44 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:44 marvel.go:104: checking offset: 560 
+INFO: 2021/06/27 12:31:44 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:44 marvel.go:104: checking offset: 580 
+INFO: 2021/06/27 12:31:44 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:44 marvel.go:104: checking offset: 600 
+INFO: 2021/06/27 12:31:44 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:44 marvel.go:104: checking offset: 620 
+INFO: 2021/06/27 12:31:44 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:45 marvel.go:104: checking offset: 640 
+INFO: 2021/06/27 12:31:45 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:45 marvel.go:104: checking offset: 660 
+INFO: 2021/06/27 12:31:45 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:45 marvel.go:104: checking offset: 680 
+INFO: 2021/06/27 12:31:45 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:45 marvel.go:104: checking offset: 700 
+INFO: 2021/06/27 12:31:45 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:45 marvel.go:104: checking offset: 720 
+INFO: 2021/06/27 12:31:45 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:45 marvel.go:104: checking offset: 740 
+INFO: 2021/06/27 12:31:45 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:45 marvel.go:104: checking offset: 760 
+INFO: 2021/06/27 12:31:45 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:45 marvel.go:104: checking offset: 780 
+INFO: 2021/06/27 12:31:45 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:45 marvel.go:104: checking offset: 800 
+INFO: 2021/06/27 12:31:45 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:45 marvel.go:104: checking offset: 820 
+INFO: 2021/06/27 12:31:45 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:45 marvel.go:104: checking offset: 840 
+INFO: 2021/06/27 12:31:45 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:45 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:45 marvel.go:104: checking offset: 860 
+INFO: 2021/06/27 12:31:45 marvel.go:104: checking offset: 880 
+INFO: 2021/06/27 12:31:45 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:45 marvel.go:104: checking offset: 900 
+INFO: 2021/06/27 12:31:45 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:45 marvel.go:104: checking offset: 920 
+INFO: 2021/06/27 12:31:45 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:46 marvel.go:104: checking offset: 940 
+INFO: 2021/06/27 12:31:46 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:46 marvel.go:104: checking offset: 960 
+INFO: 2021/06/27 12:31:46 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:46 marvel.go:104: checking offset: 980 
+INFO: 2021/06/27 12:31:46 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:46 marvel.go:104: checking offset: 1000 
+INFO: 2021/06/27 12:31:46 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:46 marvel.go:104: checking offset: 1020 
+INFO: 2021/06/27 12:31:46 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:46 marvel.go:104: checking offset: 1040 
+INFO: 2021/06/27 12:31:46 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:46 marvel.go:104: checking offset: 1060 
+INFO: 2021/06/27 12:31:46 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:46 marvel.go:104: checking offset: 1080 
+INFO: 2021/06/27 12:31:46 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:46 marvel.go:104: checking offset: 1100 
+INFO: 2021/06/27 12:31:46 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:46 marvel.go:104: checking offset: 1120 
+INFO: 2021/06/27 12:31:46 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:46 marvel.go:104: checking offset: 1140 
+INFO: 2021/06/27 12:31:46 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:46 marvel.go:104: checking offset: 1160 
+INFO: 2021/06/27 12:31:46 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:46 marvel.go:104: checking offset: 1180 
+INFO: 2021/06/27 12:31:46 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:46 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:46 marvel.go:104: checking offset: 1200 
+INFO: 2021/06/27 12:31:46 marvel.go:104: checking offset: 1220 
+INFO: 2021/06/27 12:31:46 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:46 marvel.go:104: checking offset: 1240 
+INFO: 2021/06/27 12:31:46 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:46 marvel.go:104: checking offset: 1260 
+INFO: 2021/06/27 12:31:46 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:46 marvel.go:104: checking offset: 1280 
+INFO: 2021/06/27 12:31:46 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:46 marvel.go:104: checking offset: 1300 
+INFO: 2021/06/27 12:31:46 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:46 marvel.go:104: checking offset: 1320 
+INFO: 2021/06/27 12:31:46 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:46 marvel.go:104: checking offset: 1340 
+INFO: 2021/06/27 12:31:46 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:46 marvel.go:104: checking offset: 1360 
+INFO: 2021/06/27 12:31:46 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:47 marvel.go:104: checking offset: 1380 
+INFO: 2021/06/27 12:31:47 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:47 marvel.go:104: checking offset: 1400 
+INFO: 2021/06/27 12:31:47 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:47 marvel.go:104: checking offset: 1420 
+INFO: 2021/06/27 12:31:47 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:47 marvel.go:104: checking offset: 1440 
+INFO: 2021/06/27 12:31:47 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:47 marvel.go:104: checking offset: 1460 
+INFO: 2021/06/27 12:31:47 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:47 marvel.go:104: checking offset: 1480 
+INFO: 2021/06/27 12:31:47 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:31:47 service.go:46: RESULT from marvel server, length 1480
+INFO: 2021/06/27 12:31:47 service.go:57: Setting to REDIS cache server, key: characters
+INFO: 2021/06/27 12:33:18 main.go:39: Serving at localhost:8080
+INFO: 2021/06/27 12:33:25 service.go:36: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 12:33:25 service.go:43: REDIS has no result, proceeding to query from marvel server.
+INFO: 2021/06/27 12:33:27 marvel.go:80: total: 1493, limit: 20
+INFO: 2021/06/27 12:33:27 marvel.go:104: checking offset: 20 
+INFO: 2021/06/27 12:33:27 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:28 marvel.go:104: checking offset: 40 
+INFO: 2021/06/27 12:33:28 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:28 marvel.go:104: checking offset: 60 
+INFO: 2021/06/27 12:33:28 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:28 marvel.go:104: checking offset: 80 
+INFO: 2021/06/27 12:33:28 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:28 marvel.go:104: checking offset: 100 
+INFO: 2021/06/27 12:33:28 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:28 marvel.go:104: checking offset: 120 
+INFO: 2021/06/27 12:33:28 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:28 marvel.go:104: checking offset: 140 
+INFO: 2021/06/27 12:33:28 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:28 marvel.go:104: checking offset: 160 
+INFO: 2021/06/27 12:33:28 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:28 marvel.go:104: checking offset: 180 
+INFO: 2021/06/27 12:33:28 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:28 marvel.go:104: checking offset: 200 
+INFO: 2021/06/27 12:33:28 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:28 marvel.go:104: checking offset: 220 
+INFO: 2021/06/27 12:33:28 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:28 marvel.go:104: checking offset: 240 
+INFO: 2021/06/27 12:33:28 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:28 marvel.go:104: checking offset: 260 
+INFO: 2021/06/27 12:33:28 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:28 marvel.go:104: checking offset: 280 
+INFO: 2021/06/27 12:33:28 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:28 marvel.go:104: checking offset: 300 
+INFO: 2021/06/27 12:33:28 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:29 marvel.go:104: checking offset: 320 
+INFO: 2021/06/27 12:33:29 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:29 marvel.go:104: checking offset: 340 
+INFO: 2021/06/27 12:33:29 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:29 marvel.go:104: checking offset: 360 
+INFO: 2021/06/27 12:33:29 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:30 marvel.go:104: checking offset: 380 
+INFO: 2021/06/27 12:33:30 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:30 marvel.go:104: checking offset: 400 
+INFO: 2021/06/27 12:33:30 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:30 marvel.go:104: checking offset: 420 
+INFO: 2021/06/27 12:33:30 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:30 marvel.go:104: checking offset: 440 
+INFO: 2021/06/27 12:33:30 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:30 marvel.go:104: checking offset: 460 
+INFO: 2021/06/27 12:33:30 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:30 marvel.go:104: checking offset: 480 
+INFO: 2021/06/27 12:33:30 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:30 marvel.go:104: checking offset: 500 
+INFO: 2021/06/27 12:33:30 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:31 marvel.go:104: checking offset: 520 
+INFO: 2021/06/27 12:33:31 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:31 marvel.go:104: checking offset: 540 
+INFO: 2021/06/27 12:33:31 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:31 marvel.go:104: checking offset: 560 
+INFO: 2021/06/27 12:33:31 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:31 marvel.go:104: checking offset: 580 
+INFO: 2021/06/27 12:33:31 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:31 marvel.go:104: checking offset: 600 
+INFO: 2021/06/27 12:33:31 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:31 marvel.go:104: checking offset: 620 
+INFO: 2021/06/27 12:33:31 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:31 marvel.go:104: checking offset: 640 
+INFO: 2021/06/27 12:33:31 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:31 marvel.go:104: checking offset: 660 
+INFO: 2021/06/27 12:33:31 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:31 marvel.go:104: checking offset: 680 
+INFO: 2021/06/27 12:33:31 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:31 marvel.go:104: checking offset: 700 
+INFO: 2021/06/27 12:33:31 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:31 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:31 marvel.go:104: checking offset: 720 
+INFO: 2021/06/27 12:33:31 marvel.go:104: checking offset: 740 
+INFO: 2021/06/27 12:33:31 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:31 marvel.go:104: checking offset: 760 
+INFO: 2021/06/27 12:33:31 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:32 marvel.go:104: checking offset: 780 
+INFO: 2021/06/27 12:33:32 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:32 marvel.go:104: checking offset: 800 
+INFO: 2021/06/27 12:33:32 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:32 marvel.go:104: checking offset: 820 
+INFO: 2021/06/27 12:33:32 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:32 marvel.go:104: checking offset: 840 
+INFO: 2021/06/27 12:33:32 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:32 marvel.go:104: checking offset: 860 
+INFO: 2021/06/27 12:33:32 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:32 marvel.go:104: checking offset: 880 
+INFO: 2021/06/27 12:33:32 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:32 marvel.go:104: checking offset: 900 
+INFO: 2021/06/27 12:33:32 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:32 marvel.go:104: checking offset: 920 
+INFO: 2021/06/27 12:33:32 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:32 marvel.go:104: checking offset: 940 
+INFO: 2021/06/27 12:33:32 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:32 marvel.go:104: checking offset: 960 
+INFO: 2021/06/27 12:33:32 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:32 marvel.go:104: checking offset: 980 
+INFO: 2021/06/27 12:33:32 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:32 marvel.go:104: checking offset: 1000 
+INFO: 2021/06/27 12:33:32 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:32 marvel.go:104: checking offset: 1020 
+INFO: 2021/06/27 12:33:32 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:32 marvel.go:104: checking offset: 1040 
+INFO: 2021/06/27 12:33:32 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:32 marvel.go:104: checking offset: 1060 
+INFO: 2021/06/27 12:33:32 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:32 marvel.go:104: checking offset: 1080 
+INFO: 2021/06/27 12:33:32 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:32 marvel.go:104: checking offset: 1100 
+INFO: 2021/06/27 12:33:32 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:32 marvel.go:104: checking offset: 1120 
+INFO: 2021/06/27 12:33:32 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:32 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:32 marvel.go:104: checking offset: 1140 
+INFO: 2021/06/27 12:33:33 marvel.go:104: checking offset: 1160 
+INFO: 2021/06/27 12:33:33 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:33 marvel.go:104: checking offset: 1180 
+INFO: 2021/06/27 12:33:33 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:33 marvel.go:104: checking offset: 1200 
+INFO: 2021/06/27 12:33:33 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:33 marvel.go:104: checking offset: 1220 
+INFO: 2021/06/27 12:33:33 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:33 marvel.go:104: checking offset: 1240 
+INFO: 2021/06/27 12:33:33 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:33 marvel.go:104: checking offset: 1260 
+INFO: 2021/06/27 12:33:33 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:33 marvel.go:104: checking offset: 1280 
+INFO: 2021/06/27 12:33:33 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:33 marvel.go:104: checking offset: 1300 
+INFO: 2021/06/27 12:33:33 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:33 marvel.go:104: checking offset: 1320 
+INFO: 2021/06/27 12:33:33 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:33 marvel.go:104: checking offset: 1340 
+INFO: 2021/06/27 12:33:33 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:33 marvel.go:104: checking offset: 1360 
+INFO: 2021/06/27 12:33:33 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:33 marvel.go:104: checking offset: 1380 
+INFO: 2021/06/27 12:33:33 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:33 marvel.go:104: checking offset: 1400 
+INFO: 2021/06/27 12:33:33 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:33 marvel.go:104: checking offset: 1420 
+INFO: 2021/06/27 12:33:33 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:33 marvel.go:104: checking offset: 1440 
+INFO: 2021/06/27 12:33:33 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:33 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:33 marvel.go:122: Doing now length: 20 
+INFO: 2021/06/27 12:33:33 marvel.go:104: checking offset: 1460 
+INFO: 2021/06/27 12:33:33 marvel.go:104: checking offset: 1460 
+INFO: 2021/06/27 12:33:33 service.go:47: RESULT from marvel server, length 1480
+INFO: 2021/06/27 12:33:34 service.go:58: Setting to REDIS cache server, key: characters
+INFO: 2021/06/27 12:37:51 main.go:39: Serving at localhost:8080
+INFO: 2021/06/27 12:37:58 service.go:36: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 12:37:58 service.go:43: REDIS has no result, proceeding to query from marvel server.
+INFO: 2021/06/27 12:38:00 marvel.go:80: total: 1493, limit: 20
+INFO: 2021/06/27 12:38:00 marvel.go:106: checking offset: 20 
+INFO: 2021/06/27 12:38:01 marvel.go:106: checking offset: 40 
+INFO: 2021/06/27 12:38:01 marvel.go:106: checking offset: 60 
+INFO: 2021/06/27 12:38:01 marvel.go:106: checking offset: 80 
+INFO: 2021/06/27 12:38:01 marvel.go:106: checking offset: 100 
+INFO: 2021/06/27 12:38:01 marvel.go:106: checking offset: 120 
+INFO: 2021/06/27 12:38:01 marvel.go:106: checking offset: 140 
+INFO: 2021/06/27 12:38:01 marvel.go:106: checking offset: 160 
+INFO: 2021/06/27 12:38:01 marvel.go:106: checking offset: 180 
+INFO: 2021/06/27 12:38:01 marvel.go:106: checking offset: 200 
+INFO: 2021/06/27 12:38:01 marvel.go:106: checking offset: 220 
+INFO: 2021/06/27 12:38:01 marvel.go:106: checking offset: 240 
+INFO: 2021/06/27 12:38:01 marvel.go:106: checking offset: 260 
+INFO: 2021/06/27 12:38:01 marvel.go:106: checking offset: 280 
+INFO: 2021/06/27 12:38:02 marvel.go:106: checking offset: 300 
+INFO: 2021/06/27 12:38:02 marvel.go:106: checking offset: 320 
+INFO: 2021/06/27 12:38:02 marvel.go:106: checking offset: 340 
+INFO: 2021/06/27 12:38:02 marvel.go:106: checking offset: 360 
+INFO: 2021/06/27 12:38:02 marvel.go:106: checking offset: 380 
+INFO: 2021/06/27 12:38:02 marvel.go:106: checking offset: 400 
+INFO: 2021/06/27 12:38:02 marvel.go:106: checking offset: 420 
+INFO: 2021/06/27 12:38:02 marvel.go:106: checking offset: 440 
+INFO: 2021/06/27 12:38:02 marvel.go:106: checking offset: 460 
+INFO: 2021/06/27 12:38:02 marvel.go:106: checking offset: 480 
+INFO: 2021/06/27 12:38:03 marvel.go:106: checking offset: 500 
+INFO: 2021/06/27 12:38:03 marvel.go:106: checking offset: 520 
+INFO: 2021/06/27 12:38:03 marvel.go:106: checking offset: 540 
+INFO: 2021/06/27 12:38:03 marvel.go:106: checking offset: 560 
+INFO: 2021/06/27 12:38:03 marvel.go:106: checking offset: 580 
+INFO: 2021/06/27 12:38:04 marvel.go:106: checking offset: 600 
+INFO: 2021/06/27 12:38:04 marvel.go:106: checking offset: 620 
+INFO: 2021/06/27 12:38:04 marvel.go:106: checking offset: 640 
+INFO: 2021/06/27 12:38:04 marvel.go:106: checking offset: 640 
+INFO: 2021/06/27 12:38:04 marvel.go:106: checking offset: 680 
+INFO: 2021/06/27 12:38:04 marvel.go:106: checking offset: 700 
+INFO: 2021/06/27 12:38:04 marvel.go:106: checking offset: 720 
+INFO: 2021/06/27 12:38:04 marvel.go:106: checking offset: 740 
+INFO: 2021/06/27 12:38:04 marvel.go:106: checking offset: 760 
+INFO: 2021/06/27 12:38:05 marvel.go:106: checking offset: 780 
+INFO: 2021/06/27 12:38:05 marvel.go:106: checking offset: 800 
+INFO: 2021/06/27 12:38:05 marvel.go:106: checking offset: 820 
+INFO: 2021/06/27 12:38:05 marvel.go:106: checking offset: 840 
+INFO: 2021/06/27 12:38:05 marvel.go:106: checking offset: 860 
+INFO: 2021/06/27 12:38:05 marvel.go:106: checking offset: 880 
+INFO: 2021/06/27 12:38:05 marvel.go:106: checking offset: 900 
+INFO: 2021/06/27 12:38:05 marvel.go:106: checking offset: 920 
+INFO: 2021/06/27 12:38:05 marvel.go:106: checking offset: 940 
+INFO: 2021/06/27 12:38:05 marvel.go:106: checking offset: 960 
+INFO: 2021/06/27 12:38:05 marvel.go:106: checking offset: 980 
+INFO: 2021/06/27 12:38:05 marvel.go:106: checking offset: 1000 
+INFO: 2021/06/27 12:38:05 marvel.go:106: checking offset: 1020 
+INFO: 2021/06/27 12:38:05 marvel.go:106: checking offset: 1040 
+INFO: 2021/06/27 12:38:05 marvel.go:106: checking offset: 1060 
+INFO: 2021/06/27 12:38:05 marvel.go:106: checking offset: 1060 
+INFO: 2021/06/27 12:38:05 marvel.go:106: checking offset: 1100 
+INFO: 2021/06/27 12:38:05 marvel.go:106: checking offset: 1120 
+INFO: 2021/06/27 12:38:05 marvel.go:106: checking offset: 1140 
+INFO: 2021/06/27 12:38:06 marvel.go:106: checking offset: 1160 
+INFO: 2021/06/27 12:38:06 marvel.go:106: checking offset: 1180 
+INFO: 2021/06/27 12:38:06 marvel.go:106: checking offset: 1200 
+INFO: 2021/06/27 12:38:06 marvel.go:106: checking offset: 1220 
+INFO: 2021/06/27 12:38:06 marvel.go:106: checking offset: 1240 
+INFO: 2021/06/27 12:38:06 marvel.go:106: checking offset: 1260 
+INFO: 2021/06/27 12:38:06 marvel.go:106: checking offset: 1280 
+INFO: 2021/06/27 12:38:06 marvel.go:106: checking offset: 1300 
+INFO: 2021/06/27 12:38:06 marvel.go:106: checking offset: 1320 
+INFO: 2021/06/27 12:38:06 marvel.go:106: checking offset: 1340 
+INFO: 2021/06/27 12:38:06 marvel.go:106: checking offset: 1360 
+INFO: 2021/06/27 12:38:06 marvel.go:106: checking offset: 1380 
+INFO: 2021/06/27 12:38:06 marvel.go:106: checking offset: 1400 
+INFO: 2021/06/27 12:38:06 marvel.go:106: checking offset: 1420 
+INFO: 2021/06/27 12:38:06 marvel.go:106: checking offset: 1440 
+INFO: 2021/06/27 12:38:06 marvel.go:106: checking offset: 1460 
+INFO: 2021/06/27 12:38:06 marvel.go:106: checking offset: 1480 
+INFO: 2021/06/27 12:38:06 service.go:47: RESULT from marvel server, length 1480
+INFO: 2021/06/27 12:38:06 service.go:58: Setting to REDIS cache server, key: characters
+INFO: 2021/06/27 12:41:34 main.go:39: Serving at localhost:8080
+INFO: 2021/06/27 12:42:03 service.go:36: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 12:42:04 service.go:43: REDIS has no result, proceeding to query from marvel server.
+INFO: 2021/06/27 12:42:05 marvel.go:80: total: 1493, limit: 20
+INFO: 2021/06/27 12:42:06 marvel.go:108: checking offset: 20 
+INFO: 2021/06/27 12:42:07 marvel.go:108: checking offset: 40 
+INFO: 2021/06/27 12:42:07 marvel.go:108: checking offset: 60 
+INFO: 2021/06/27 12:42:07 marvel.go:108: checking offset: 80 
+INFO: 2021/06/27 12:42:07 marvel.go:108: checking offset: 100 
+INFO: 2021/06/27 12:42:07 marvel.go:108: checking offset: 120 
+INFO: 2021/06/27 12:42:07 marvel.go:108: checking offset: 140 
+INFO: 2021/06/27 12:42:07 marvel.go:108: checking offset: 160 
+INFO: 2021/06/27 12:42:07 marvel.go:108: checking offset: 180 
+INFO: 2021/06/27 12:42:07 marvel.go:108: checking offset: 200 
+INFO: 2021/06/27 12:42:07 marvel.go:108: checking offset: 220 
+INFO: 2021/06/27 12:42:07 marvel.go:108: checking offset: 240 
+INFO: 2021/06/27 12:42:07 marvel.go:108: checking offset: 260 
+INFO: 2021/06/27 12:42:07 marvel.go:108: checking offset: 280 
+INFO: 2021/06/27 12:42:07 marvel.go:108: checking offset: 300 
+INFO: 2021/06/27 12:42:07 marvel.go:108: checking offset: 320 
+INFO: 2021/06/27 12:42:07 marvel.go:108: checking offset: 340 
+INFO: 2021/06/27 12:42:07 marvel.go:108: checking offset: 360 
+INFO: 2021/06/27 12:42:07 marvel.go:108: checking offset: 380 
+INFO: 2021/06/27 12:42:07 marvel.go:108: checking offset: 400 
+INFO: 2021/06/27 12:42:07 marvel.go:108: checking offset: 420 
+INFO: 2021/06/27 12:42:07 marvel.go:108: checking offset: 440 
+INFO: 2021/06/27 12:42:07 marvel.go:108: checking offset: 460 
+INFO: 2021/06/27 12:42:07 marvel.go:108: checking offset: 480 
+INFO: 2021/06/27 12:42:07 marvel.go:108: checking offset: 500 
+INFO: 2021/06/27 12:42:08 marvel.go:108: checking offset: 520 
+INFO: 2021/06/27 12:42:08 marvel.go:108: checking offset: 540 
+INFO: 2021/06/27 12:42:08 marvel.go:108: checking offset: 560 
+INFO: 2021/06/27 12:42:08 marvel.go:108: checking offset: 580 
+INFO: 2021/06/27 12:42:08 marvel.go:108: checking offset: 600 
+INFO: 2021/06/27 12:42:08 marvel.go:108: checking offset: 620 
+INFO: 2021/06/27 12:42:08 marvel.go:108: checking offset: 640 
+INFO: 2021/06/27 12:42:08 marvel.go:108: checking offset: 660 
+INFO: 2021/06/27 12:42:08 marvel.go:108: checking offset: 680 
+INFO: 2021/06/27 12:42:09 marvel.go:108: checking offset: 700 
+INFO: 2021/06/27 12:42:09 marvel.go:108: checking offset: 720 
+INFO: 2021/06/27 12:42:09 marvel.go:108: checking offset: 740 
+INFO: 2021/06/27 12:42:09 marvel.go:108: checking offset: 760 
+INFO: 2021/06/27 12:42:09 marvel.go:108: checking offset: 780 
+INFO: 2021/06/27 12:42:09 marvel.go:108: checking offset: 800 
+INFO: 2021/06/27 12:42:09 marvel.go:108: checking offset: 820 
+INFO: 2021/06/27 12:42:09 marvel.go:108: checking offset: 840 
+INFO: 2021/06/27 12:42:09 marvel.go:108: checking offset: 860 
+INFO: 2021/06/27 12:42:09 marvel.go:108: checking offset: 880 
+INFO: 2021/06/27 12:42:09 marvel.go:108: checking offset: 900 
+INFO: 2021/06/27 12:42:09 marvel.go:108: checking offset: 920 
+INFO: 2021/06/27 12:42:09 marvel.go:108: checking offset: 940 
+INFO: 2021/06/27 12:42:10 marvel.go:108: checking offset: 960 
+INFO: 2021/06/27 12:42:10 marvel.go:108: checking offset: 980 
+INFO: 2021/06/27 12:42:10 marvel.go:108: checking offset: 980 
+INFO: 2021/06/27 12:42:10 marvel.go:108: checking offset: 1020 
+INFO: 2021/06/27 12:42:10 marvel.go:108: checking offset: 1040 
+INFO: 2021/06/27 12:42:10 marvel.go:108: checking offset: 1060 
+INFO: 2021/06/27 12:42:10 marvel.go:108: checking offset: 1080 
+INFO: 2021/06/27 12:42:10 marvel.go:108: checking offset: 1100 
+INFO: 2021/06/27 12:42:10 marvel.go:108: checking offset: 1120 
+INFO: 2021/06/27 12:42:10 marvel.go:108: checking offset: 1140 
+INFO: 2021/06/27 12:42:10 marvel.go:108: checking offset: 1160 
+INFO: 2021/06/27 12:42:10 marvel.go:108: checking offset: 1180 
+INFO: 2021/06/27 12:42:10 marvel.go:108: checking offset: 1200 
+INFO: 2021/06/27 12:42:10 marvel.go:108: checking offset: 1220 
+INFO: 2021/06/27 12:42:11 marvel.go:108: checking offset: 1240 
+INFO: 2021/06/27 12:42:11 marvel.go:108: checking offset: 1260 
+INFO: 2021/06/27 12:42:11 marvel.go:108: checking offset: 1280 
+INFO: 2021/06/27 12:42:11 marvel.go:108: checking offset: 1300 
+INFO: 2021/06/27 12:42:11 marvel.go:108: checking offset: 1320 
+INFO: 2021/06/27 12:42:11 marvel.go:108: checking offset: 1340 
+INFO: 2021/06/27 12:42:11 marvel.go:108: checking offset: 1360 
+INFO: 2021/06/27 12:42:11 marvel.go:108: checking offset: 1380 
+INFO: 2021/06/27 12:42:11 marvel.go:108: checking offset: 1400 
+INFO: 2021/06/27 12:42:11 marvel.go:108: checking offset: 1420 
+INFO: 2021/06/27 12:42:11 marvel.go:108: checking offset: 1440 
+INFO: 2021/06/27 12:42:11 marvel.go:108: checking offset: 1460 
+INFO: 2021/06/27 12:42:12 marvel.go:108: checking offset: 1480 
+INFO: 2021/06/27 12:42:12 service.go:47: RESULT from marvel server, length 1480
+INFO: 2021/06/27 12:42:12 service.go:58: Setting to REDIS cache server, key: characters
+INFO: 2021/06/27 12:45:02 main.go:39: Serving at localhost:8080
+INFO: 2021/06/27 12:45:12 service.go:36: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 12:45:12 service.go:43: REDIS has no result, proceeding to query from marvel server.
+INFO: 2021/06/27 12:45:14 marvel.go:80: total: 1493, limit: 20
+INFO: 2021/06/27 12:45:14 marvel.go:107: checking offset: 20 
+INFO: 2021/06/27 12:45:15 marvel.go:107: checking offset: 40 
+INFO: 2021/06/27 12:45:15 marvel.go:107: checking offset: 60 
+INFO: 2021/06/27 12:45:15 marvel.go:107: checking offset: 80 
+INFO: 2021/06/27 12:45:15 marvel.go:107: checking offset: 100 
+INFO: 2021/06/27 12:45:15 marvel.go:107: checking offset: 120 
+INFO: 2021/06/27 12:45:15 marvel.go:107: checking offset: 140 
+INFO: 2021/06/27 12:45:15 marvel.go:107: checking offset: 160 
+INFO: 2021/06/27 12:45:15 marvel.go:107: checking offset: 180 
+INFO: 2021/06/27 12:45:15 marvel.go:107: checking offset: 200 
+INFO: 2021/06/27 12:45:15 marvel.go:107: checking offset: 220 
+INFO: 2021/06/27 12:45:16 marvel.go:107: checking offset: 240 
+INFO: 2021/06/27 12:45:16 marvel.go:107: checking offset: 260 
+INFO: 2021/06/27 12:45:16 marvel.go:107: checking offset: 280 
+INFO: 2021/06/27 12:45:16 marvel.go:107: checking offset: 300 
+INFO: 2021/06/27 12:45:16 marvel.go:107: checking offset: 320 
+INFO: 2021/06/27 12:45:16 marvel.go:107: checking offset: 340 
+INFO: 2021/06/27 12:45:16 marvel.go:107: checking offset: 360 
+INFO: 2021/06/27 12:45:16 marvel.go:107: checking offset: 380 
+INFO: 2021/06/27 12:45:16 marvel.go:107: checking offset: 400 
+INFO: 2021/06/27 12:45:16 marvel.go:107: checking offset: 420 
+INFO: 2021/06/27 12:45:16 marvel.go:107: checking offset: 440 
+INFO: 2021/06/27 12:45:17 marvel.go:107: checking offset: 460 
+INFO: 2021/06/27 12:45:17 marvel.go:107: checking offset: 480 
+INFO: 2021/06/27 12:45:17 marvel.go:107: checking offset: 500 
+INFO: 2021/06/27 12:45:17 marvel.go:107: checking offset: 520 
+INFO: 2021/06/27 12:45:17 marvel.go:107: checking offset: 540 
+INFO: 2021/06/27 12:45:17 marvel.go:107: checking offset: 560 
+INFO: 2021/06/27 12:45:18 marvel.go:107: checking offset: 580 
+INFO: 2021/06/27 12:45:18 marvel.go:107: checking offset: 600 
+INFO: 2021/06/27 12:45:18 marvel.go:107: checking offset: 620 
+INFO: 2021/06/27 12:45:18 marvel.go:107: checking offset: 640 
+INFO: 2021/06/27 12:45:18 marvel.go:107: checking offset: 660 
+INFO: 2021/06/27 12:45:18 marvel.go:107: checking offset: 680 
+INFO: 2021/06/27 12:45:18 marvel.go:107: checking offset: 700 
+INFO: 2021/06/27 12:45:18 marvel.go:107: checking offset: 720 
+INFO: 2021/06/27 12:45:18 marvel.go:107: checking offset: 740 
+INFO: 2021/06/27 12:45:18 marvel.go:107: checking offset: 760 
+INFO: 2021/06/27 12:45:18 marvel.go:107: checking offset: 780 
+INFO: 2021/06/27 12:45:18 marvel.go:107: checking offset: 800 
+INFO: 2021/06/27 12:45:18 marvel.go:107: checking offset: 820 
+INFO: 2021/06/27 12:45:19 marvel.go:107: checking offset: 840 
+INFO: 2021/06/27 12:45:19 marvel.go:107: checking offset: 860 
+INFO: 2021/06/27 12:45:19 marvel.go:107: checking offset: 880 
+INFO: 2021/06/27 12:45:19 marvel.go:107: checking offset: 900 
+INFO: 2021/06/27 12:45:19 marvel.go:107: checking offset: 920 
+INFO: 2021/06/27 12:45:19 marvel.go:107: checking offset: 940 
+INFO: 2021/06/27 12:45:19 marvel.go:107: checking offset: 960 
+INFO: 2021/06/27 12:45:19 marvel.go:107: checking offset: 980 
+INFO: 2021/06/27 12:45:19 marvel.go:107: checking offset: 1000 
+INFO: 2021/06/27 12:45:19 marvel.go:107: checking offset: 1020 
+INFO: 2021/06/27 12:45:19 marvel.go:107: checking offset: 1040 
+INFO: 2021/06/27 12:45:19 marvel.go:107: checking offset: 1060 
+INFO: 2021/06/27 12:45:19 marvel.go:107: checking offset: 1080 
+INFO: 2021/06/27 12:45:19 marvel.go:107: checking offset: 1100 
+INFO: 2021/06/27 12:45:19 marvel.go:107: checking offset: 1120 
+INFO: 2021/06/27 12:45:19 marvel.go:107: checking offset: 1120 
+INFO: 2021/06/27 12:45:19 marvel.go:107: checking offset: 1160 
+INFO: 2021/06/27 12:45:19 marvel.go:107: checking offset: 1180 
+INFO: 2021/06/27 12:45:19 marvel.go:107: checking offset: 1200 
+INFO: 2021/06/27 12:45:19 marvel.go:107: checking offset: 1220 
+INFO: 2021/06/27 12:45:19 marvel.go:107: checking offset: 1240 
+INFO: 2021/06/27 12:45:20 marvel.go:107: checking offset: 1260 
+INFO: 2021/06/27 12:45:20 marvel.go:107: checking offset: 1280 
+INFO: 2021/06/27 12:45:20 marvel.go:107: checking offset: 1300 
+INFO: 2021/06/27 12:45:20 marvel.go:107: checking offset: 1320 
+INFO: 2021/06/27 12:45:20 marvel.go:107: checking offset: 1340 
+INFO: 2021/06/27 12:45:20 marvel.go:107: checking offset: 1360 
+INFO: 2021/06/27 12:45:20 marvel.go:107: checking offset: 1380 
+INFO: 2021/06/27 12:45:20 marvel.go:107: checking offset: 1400 
+INFO: 2021/06/27 12:45:20 marvel.go:107: checking offset: 1420 
+INFO: 2021/06/27 12:45:20 marvel.go:107: checking offset: 1440 
+INFO: 2021/06/27 12:45:20 marvel.go:107: checking offset: 1460 
+INFO: 2021/06/27 12:45:20 marvel.go:107: checking offset: 1480 
+INFO: 2021/06/27 12:45:20 service.go:47: RESULT from marvel server, length 1480
+INFO: 2021/06/27 12:45:20 service.go:58: Setting to REDIS cache server, key: characters
+INFO: 2021/06/27 12:46:08 main.go:39: Serving at localhost:8080
+INFO: 2021/06/27 12:46:19 service.go:36: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 12:46:20 service.go:43: REDIS has no result, proceeding to query from marvel server.
+INFO: 2021/06/27 12:46:21 marvel.go:80: total: 1493, limit: 20
+INFO: 2021/06/27 12:46:22 marvel.go:108: checking offset: 20 
+INFO: 2021/06/27 12:46:23 marvel.go:108: checking offset: 40 
+INFO: 2021/06/27 12:46:23 marvel.go:108: checking offset: 60 
+INFO: 2021/06/27 12:46:23 marvel.go:108: checking offset: 80 
+INFO: 2021/06/27 12:46:23 marvel.go:108: checking offset: 100 
+INFO: 2021/06/27 12:46:23 marvel.go:108: checking offset: 120 
+INFO: 2021/06/27 12:46:23 marvel.go:108: checking offset: 140 
+INFO: 2021/06/27 12:46:23 marvel.go:108: checking offset: 160 
+INFO: 2021/06/27 12:46:23 marvel.go:108: checking offset: 180 
+INFO: 2021/06/27 12:46:23 marvel.go:108: checking offset: 200 
+INFO: 2021/06/27 12:46:23 marvel.go:108: checking offset: 220 
+INFO: 2021/06/27 12:46:23 marvel.go:108: checking offset: 240 
+INFO: 2021/06/27 12:46:23 marvel.go:108: checking offset: 260 
+INFO: 2021/06/27 12:46:23 marvel.go:108: checking offset: 280 
+INFO: 2021/06/27 12:46:23 marvel.go:108: checking offset: 300 
+INFO: 2021/06/27 12:46:23 marvel.go:108: checking offset: 320 
+INFO: 2021/06/27 12:46:23 marvel.go:108: checking offset: 340 
+INFO: 2021/06/27 12:46:23 marvel.go:108: checking offset: 360 
+INFO: 2021/06/27 12:46:23 marvel.go:108: checking offset: 380 
+INFO: 2021/06/27 12:46:23 marvel.go:108: checking offset: 400 
+INFO: 2021/06/27 12:46:23 marvel.go:108: checking offset: 420 
+INFO: 2021/06/27 12:46:23 marvel.go:108: checking offset: 440 
+INFO: 2021/06/27 12:46:23 marvel.go:108: checking offset: 460 
+INFO: 2021/06/27 12:46:23 marvel.go:108: checking offset: 480 
+INFO: 2021/06/27 12:46:23 marvel.go:108: checking offset: 500 
+INFO: 2021/06/27 12:46:24 marvel.go:108: checking offset: 520 
+INFO: 2021/06/27 12:46:24 marvel.go:108: checking offset: 540 
+INFO: 2021/06/27 12:46:24 marvel.go:108: checking offset: 560 
+INFO: 2021/06/27 12:46:24 marvel.go:108: checking offset: 580 
+INFO: 2021/06/27 12:46:24 marvel.go:108: checking offset: 600 
+INFO: 2021/06/27 12:46:24 marvel.go:108: checking offset: 620 
+INFO: 2021/06/27 12:46:24 marvel.go:108: checking offset: 640 
+INFO: 2021/06/27 12:46:24 marvel.go:108: checking offset: 660 
+INFO: 2021/06/27 12:46:24 marvel.go:108: checking offset: 680 
+INFO: 2021/06/27 12:46:24 marvel.go:108: checking offset: 700 
+INFO: 2021/06/27 12:46:24 marvel.go:108: checking offset: 720 
+INFO: 2021/06/27 12:46:25 marvel.go:108: checking offset: 740 
+INFO: 2021/06/27 12:46:25 marvel.go:108: checking offset: 760 
+INFO: 2021/06/27 12:46:25 marvel.go:108: checking offset: 780 
+INFO: 2021/06/27 12:46:25 marvel.go:108: checking offset: 800 
+INFO: 2021/06/27 12:46:25 marvel.go:108: checking offset: 820 
+INFO: 2021/06/27 12:46:25 marvel.go:108: checking offset: 840 
+INFO: 2021/06/27 12:46:25 marvel.go:108: checking offset: 860 
+INFO: 2021/06/27 12:46:25 marvel.go:108: checking offset: 880 
+INFO: 2021/06/27 12:46:25 marvel.go:108: checking offset: 900 
+INFO: 2021/06/27 12:46:26 marvel.go:108: checking offset: 920 
+INFO: 2021/06/27 12:46:26 marvel.go:108: checking offset: 940 
+INFO: 2021/06/27 12:46:26 marvel.go:108: checking offset: 960 
+INFO: 2021/06/27 12:46:26 marvel.go:108: checking offset: 980 
+INFO: 2021/06/27 12:46:26 marvel.go:108: checking offset: 1000 
+INFO: 2021/06/27 12:46:26 marvel.go:108: checking offset: 1020 
+INFO: 2021/06/27 12:46:26 marvel.go:108: checking offset: 1040 
+INFO: 2021/06/27 12:46:26 marvel.go:108: checking offset: 1060 
+INFO: 2021/06/27 12:46:26 marvel.go:108: checking offset: 1060 
+INFO: 2021/06/27 12:46:26 marvel.go:108: checking offset: 1080 
+INFO: 2021/06/27 12:46:26 marvel.go:108: checking offset: 1120 
+INFO: 2021/06/27 12:46:26 marvel.go:108: checking offset: 1140 
+INFO: 2021/06/27 12:46:26 marvel.go:108: checking offset: 1160 
+INFO: 2021/06/27 12:46:26 marvel.go:108: checking offset: 1180 
+INFO: 2021/06/27 12:46:26 marvel.go:108: checking offset: 1200 
+INFO: 2021/06/27 12:46:26 marvel.go:108: checking offset: 1220 
+INFO: 2021/06/27 12:46:26 marvel.go:108: checking offset: 1240 
+INFO: 2021/06/27 12:46:26 marvel.go:108: checking offset: 1260 
+INFO: 2021/06/27 12:46:26 marvel.go:108: checking offset: 1280 
+INFO: 2021/06/27 12:46:26 marvel.go:108: checking offset: 1280 
+INFO: 2021/06/27 12:46:26 marvel.go:108: checking offset: 1320 
+INFO: 2021/06/27 12:46:27 marvel.go:108: checking offset: 1340 
+INFO: 2021/06/27 12:46:27 marvel.go:108: checking offset: 1360 
+INFO: 2021/06/27 12:46:27 marvel.go:108: checking offset: 1380 
+INFO: 2021/06/27 12:46:27 marvel.go:108: checking offset: 1400 
+INFO: 2021/06/27 12:46:27 marvel.go:108: checking offset: 1420 
+INFO: 2021/06/27 12:46:27 marvel.go:108: checking offset: 1440 
+INFO: 2021/06/27 12:46:27 marvel.go:108: checking offset: 1460 
+INFO: 2021/06/27 12:46:27 marvel.go:108: checking offset: 1480 
+INFO: 2021/06/27 12:46:27 service.go:47: RESULT from marvel server, length 1480
+INFO: 2021/06/27 12:46:27 service.go:58: Setting to REDIS cache server, key: characters
+INFO: 2021/06/27 12:47:49 main.go:39: Serving at localhost:8080
+INFO: 2021/06/27 12:47:56 service.go:36: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 12:47:57 service.go:43: REDIS has no result, proceeding to query from marvel server.
+INFO: 2021/06/27 12:47:58 marvel.go:80: total: 1493, limit: 20
+INFO: 2021/06/27 12:47:59 marvel.go:109: checking offset: 20 
+INFO: 2021/06/27 12:48:00 marvel.go:109: checking offset: 40 
+INFO: 2021/06/27 12:48:00 service.go:47: RESULT from marvel server, length 40
+INFO: 2021/06/27 12:48:00 service.go:58: Setting to REDIS cache server, key: characters
+INFO: 2021/06/27 12:54:26 main.go:39: Serving at localhost:8080
+INFO: 2021/06/27 12:54:37 service.go:36: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 12:54:38 service.go:43: REDIS has no result, proceeding to query from marvel server.
+INFO: 2021/06/27 12:54:39 marvel.go:79: total: 1493, limit: 20
+INFO: 2021/06/27 12:54:40 marvel.go:97: checking offset: 20 
+INFO: 2021/06/27 12:54:40 marvel.go:97: checking offset: 40 
+INFO: 2021/06/27 12:54:40 service.go:47: RESULT from marvel server, length 60
+INFO: 2021/06/27 12:54:40 service.go:58: Setting to REDIS cache server, key: characters
+INFO: 2021/06/27 12:55:18 service.go:36: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 12:55:18 service.go:43: REDIS has no result, proceeding to query from marvel server.
+INFO: 2021/06/27 12:55:19 marvel.go:79: total: 1493, limit: 20
+INFO: 2021/06/27 12:55:20 marvel.go:97: checking offset: 20 
+INFO: 2021/06/27 12:55:20 marvel.go:97: checking offset: 40 
+INFO: 2021/06/27 12:55:20 service.go:47: RESULT from marvel server, length 60
+INFO: 2021/06/27 12:55:20 service.go:58: Setting to REDIS cache server, key: characters
+INFO: 2021/06/27 12:55:48 main.go:39: Serving at localhost:8080
+INFO: 2021/06/27 12:55:52 service.go:36: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 12:55:52 service.go:43: REDIS has no result, proceeding to query from marvel server.
+INFO: 2021/06/27 12:55:53 marvel.go:79: total: 1493, limit: 20
+INFO: 2021/06/27 12:55:54 marvel.go:96: checking offset: 20 
+INFO: 2021/06/27 12:55:55 marvel.go:96: checking offset: 40 
+INFO: 2021/06/27 12:55:55 marvel.go:96: checking offset: 60 
+INFO: 2021/06/27 12:55:56 marvel.go:96: checking offset: 80 
+INFO: 2021/06/27 12:55:57 marvel.go:96: checking offset: 100 
+INFO: 2021/06/27 12:55:58 marvel.go:96: checking offset: 120 
+INFO: 2021/06/27 12:55:59 marvel.go:96: checking offset: 140 
+INFO: 2021/06/27 12:56:00 marvel.go:96: checking offset: 160 
+INFO: 2021/06/27 12:56:01 marvel.go:96: checking offset: 180 
+INFO: 2021/06/27 12:56:01 marvel.go:96: checking offset: 200 
+INFO: 2021/06/27 12:56:02 marvel.go:96: checking offset: 220 
+INFO: 2021/06/27 12:56:03 marvel.go:96: checking offset: 240 
+INFO: 2021/06/27 12:56:03 marvel.go:96: checking offset: 260 
+INFO: 2021/06/27 12:56:04 marvel.go:96: checking offset: 280 
+INFO: 2021/06/27 12:56:05 marvel.go:96: checking offset: 300 
+INFO: 2021/06/27 12:56:06 marvel.go:96: checking offset: 320 
+INFO: 2021/06/27 12:56:06 marvel.go:96: checking offset: 340 
+INFO: 2021/06/27 12:56:07 marvel.go:96: checking offset: 360 
+INFO: 2021/06/27 12:56:08 marvel.go:96: checking offset: 380 
+INFO: 2021/06/27 12:56:08 marvel.go:96: checking offset: 400 
+INFO: 2021/06/27 12:56:09 marvel.go:96: checking offset: 420 
+INFO: 2021/06/27 12:56:10 marvel.go:96: checking offset: 440 
+INFO: 2021/06/27 12:56:11 marvel.go:96: checking offset: 460 
+INFO: 2021/06/27 12:56:11 marvel.go:96: checking offset: 480 
+INFO: 2021/06/27 12:56:12 marvel.go:96: checking offset: 500 
+INFO: 2021/06/27 12:56:13 marvel.go:96: checking offset: 520 
+INFO: 2021/06/27 12:56:13 marvel.go:96: checking offset: 540 
+INFO: 2021/06/27 12:56:14 marvel.go:96: checking offset: 560 
+INFO: 2021/06/27 12:56:15 marvel.go:96: checking offset: 580 
+INFO: 2021/06/27 12:56:15 marvel.go:96: checking offset: 600 
+INFO: 2021/06/27 12:56:16 marvel.go:96: checking offset: 620 
+INFO: 2021/06/27 12:56:17 marvel.go:96: checking offset: 640 
+INFO: 2021/06/27 12:56:18 marvel.go:96: checking offset: 660 
+INFO: 2021/06/27 12:56:18 marvel.go:96: checking offset: 680 
+INFO: 2021/06/27 12:56:19 marvel.go:96: checking offset: 700 
+INFO: 2021/06/27 12:56:20 marvel.go:96: checking offset: 720 
+INFO: 2021/06/27 12:56:20 marvel.go:96: checking offset: 740 
+INFO: 2021/06/27 12:56:21 marvel.go:96: checking offset: 760 
+INFO: 2021/06/27 12:56:22 marvel.go:96: checking offset: 780 
+INFO: 2021/06/27 12:56:22 marvel.go:96: checking offset: 800 
+INFO: 2021/06/27 12:56:23 marvel.go:96: checking offset: 820 
+INFO: 2021/06/27 12:56:24 marvel.go:96: checking offset: 840 
+INFO: 2021/06/27 12:56:24 marvel.go:96: checking offset: 860 
+INFO: 2021/06/27 12:56:25 marvel.go:96: checking offset: 880 
+INFO: 2021/06/27 12:56:26 marvel.go:96: checking offset: 900 
+INFO: 2021/06/27 12:56:27 marvel.go:96: checking offset: 920 
+INFO: 2021/06/27 12:56:27 marvel.go:96: checking offset: 940 
+INFO: 2021/06/27 12:56:28 marvel.go:96: checking offset: 960 
+INFO: 2021/06/27 12:56:29 marvel.go:96: checking offset: 980 
+INFO: 2021/06/27 12:56:29 marvel.go:96: checking offset: 1000 
+INFO: 2021/06/27 12:56:30 marvel.go:96: checking offset: 1020 
+INFO: 2021/06/27 12:56:31 marvel.go:96: checking offset: 1040 
+INFO: 2021/06/27 12:56:32 marvel.go:96: checking offset: 1060 
+INFO: 2021/06/27 12:56:32 marvel.go:96: checking offset: 1080 
+INFO: 2021/06/27 12:56:33 marvel.go:96: checking offset: 1100 
+INFO: 2021/06/27 12:56:34 marvel.go:96: checking offset: 1120 
+INFO: 2021/06/27 12:56:34 marvel.go:96: checking offset: 1140 
+INFO: 2021/06/27 12:56:35 marvel.go:96: checking offset: 1160 
+INFO: 2021/06/27 12:56:36 marvel.go:96: checking offset: 1180 
+INFO: 2021/06/27 12:56:37 marvel.go:96: checking offset: 1200 
+INFO: 2021/06/27 12:56:37 marvel.go:96: checking offset: 1220 
+INFO: 2021/06/27 12:56:38 marvel.go:96: checking offset: 1240 
+INFO: 2021/06/27 12:56:39 marvel.go:96: checking offset: 1260 
+INFO: 2021/06/27 12:56:39 marvel.go:96: checking offset: 1280 
+INFO: 2021/06/27 12:56:40 marvel.go:96: checking offset: 1300 
+INFO: 2021/06/27 12:56:41 marvel.go:96: checking offset: 1320 
+INFO: 2021/06/27 12:56:42 marvel.go:96: checking offset: 1340 
+INFO: 2021/06/27 12:56:42 marvel.go:96: checking offset: 1360 
+INFO: 2021/06/27 12:56:43 marvel.go:96: checking offset: 1380 
+INFO: 2021/06/27 12:56:44 marvel.go:96: checking offset: 1400 
+INFO: 2021/06/27 12:56:44 marvel.go:96: checking offset: 1420 
+INFO: 2021/06/27 12:56:45 marvel.go:96: checking offset: 1440 
+INFO: 2021/06/27 12:56:46 marvel.go:96: checking offset: 1460 
+INFO: 2021/06/27 12:56:46 marvel.go:96: checking offset: 1480 
+INFO: 2021/06/27 12:56:46 service.go:47: RESULT from marvel server, length 1493
+INFO: 2021/06/27 12:56:46 service.go:58: Setting to REDIS cache server, key: characters
+INFO: 2021/06/27 13:12:12 main.go:39: Serving at localhost:8080
+INFO: 2021/06/27 13:12:16 service.go:41: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 13:12:25 service.go:41: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 13:12:34 service.go:41: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 13:12:44 service.go:41: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 13:13:02 main.go:39: Serving at localhost:8080
+INFO: 2021/06/27 13:13:06 service.go:41: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 13:13:17 service.go:41: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 13:13:17 service.go:48: REDIS has no result, proceeding to query from marvel server.
+INFO: 2021/06/27 13:13:19 marvel.go:79: total: 1493, limit: 20
+INFO: 2021/06/27 13:14:09 service.go:52: RESULT from marvel server, length 1493
+INFO: 2021/06/27 13:14:09 service.go:63: Setting to REDIS cache server, key: characters
+INFO: 2021/06/27 13:19:33 main.go:39: Serving at localhost:8080
+INFO: 2021/06/27 13:19:41 service.go:41: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 13:20:08 service.go:41: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 13:20:08 service.go:48: REDIS has no result, proceeding to query from marvel server.
+INFO: 2021/06/27 13:20:10 marvel.go:79: total: 1493, limit: 20
+INFO: 2021/06/27 13:21:05 service.go:52: RESULT from marvel server, length 1493
+INFO: 2021/06/27 13:21:05 service.go:63: Setting to REDIS cache server, key: characters
+INFO: 2021/06/27 13:27:19 service.go:41: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 13:51:31 main.go:39: Serving at localhost:8080
+INFO: 2021/06/27 13:54:42 service.go:40: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 13:54:43 service.go:85: Getting character with id: 149
+INFO: 2021/06/27 13:54:44 router.go:67: Error: no character with id 149 is found
+INFO: 2021/06/27 13:55:36 service.go:40: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 13:55:36 service.go:85: Getting character with id: 1011113
+INFO: 2021/06/27 14:01:49 main.go:39: Serving at localhost:8080
+INFO: 2021/06/27 14:01:56 router.go:67: Error: 101080211d is not a valid number
+INFO: 2021/06/27 18:48:15 service.go:40: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 18:59:24 router.go:67: Error: dsf is not a valid number
+INFO: 2021/06/27 19:17:50 service.go:85: Getting character with id: 101080211
+INFO: 2021/06/27 19:17:51 router.go:67: Error: no character with id 101080211 is found
+INFO: 2021/06/27 19:17:59 service.go:85: Getting character with id: 1010802
+INFO: 2021/06/27 19:35:34 main.go:39: Serving at localhost:8080
+INFO: 2021/06/27 20:13:56 service.go:40: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 20:14:18 service.go:85: Getting character with id: 1009696
+INFO: 2021/06/27 20:21:48 main.go:39: Serving at localhost:8080
+INFO: 2021/06/27 20:21:54 service.go:85: Getting character with id: 1009696
+INFO: 2021/06/27 20:32:19 service.go:40: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 20:32:27 service.go:85: Getting character with id: 1011227
+INFO: 2021/06/27 20:55:44 main.go:42: Serving at localhost:8080
+INFO: 2021/06/27 21:17:10 main.go:90: Serving at :0
+INFO: 2021/06/27 21:18:07 main.go:92: Serving at :0
+INFO: 2021/06/27 21:19:37 main.go:95: Serving at :0
+INFO: 2021/06/27 21:27:03 main.go:110: Serving at localhost:8080
+INFO: 2021/06/27 21:27:16 main.go:110: Serving at :0
+INFO: 2021/06/27 21:30:06 main.go:110: Serving at localhost:8080
+INFO: 2021/06/27 21:34:27 main.go:110: Serving at localhost:8080
+INFO: 2021/06/27 21:34:44 service.go:85: Getting character with id: 1011227
+INFO: 2021/06/27 21:34:49 service.go:85: Getting character with id: 1011227
+INFO: 2021/06/27 21:57:24 service.go:40: Checking REDIS cache server for key: characters
+INFO: 2021/06/27 21:57:24 service.go:47: REDIS has no result, proceeding to query from marvel server.
+INFO: 2021/06/27 21:57:26 marvel.go:79: total: 1493, limit: 20
+INFO: 2021/06/27 21:57:27 marvel.go:96: MARVEL.GetCharacters, Getting offset: 20 
+INFO: 2021/06/27 21:57:29 marvel.go:96: MARVEL.GetCharacters, Getting offset: 40 
+INFO: 2021/06/27 21:57:30 marvel.go:96: MARVEL.GetCharacters, Getting offset: 60 
+INFO: 2021/06/27 21:57:31 marvel.go:96: MARVEL.GetCharacters, Getting offset: 80 
+INFO: 2021/06/27 21:57:31 marvel.go:96: MARVEL.GetCharacters, Getting offset: 100 
+INFO: 2021/06/27 21:57:32 marvel.go:96: MARVEL.GetCharacters, Getting offset: 120 
+INFO: 2021/06/27 21:57:33 marvel.go:96: MARVEL.GetCharacters, Getting offset: 140 
+INFO: 2021/06/27 21:57:33 marvel.go:96: MARVEL.GetCharacters, Getting offset: 160 
+INFO: 2021/06/27 21:57:34 marvel.go:96: MARVEL.GetCharacters, Getting offset: 180 
+INFO: 2021/06/27 21:57:35 marvel.go:96: MARVEL.GetCharacters, Getting offset: 200 
+INFO: 2021/06/27 21:57:35 marvel.go:96: MARVEL.GetCharacters, Getting offset: 220 
+INFO: 2021/06/27 21:57:36 marvel.go:96: MARVEL.GetCharacters, Getting offset: 240 
+INFO: 2021/06/27 21:57:37 marvel.go:96: MARVEL.GetCharacters, Getting offset: 260 
+INFO: 2021/06/27 21:57:37 marvel.go:96: MARVEL.GetCharacters, Getting offset: 280 
+INFO: 2021/06/27 21:57:38 marvel.go:96: MARVEL.GetCharacters, Getting offset: 300 
+INFO: 2021/06/27 21:57:39 marvel.go:96: MARVEL.GetCharacters, Getting offset: 320 
+INFO: 2021/06/27 21:57:40 marvel.go:96: MARVEL.GetCharacters, Getting offset: 340 
+INFO: 2021/06/27 21:57:40 marvel.go:96: MARVEL.GetCharacters, Getting offset: 360 
+INFO: 2021/06/27 21:57:41 marvel.go:96: MARVEL.GetCharacters, Getting offset: 380 
+INFO: 2021/06/27 21:57:42 marvel.go:96: MARVEL.GetCharacters, Getting offset: 400 
+INFO: 2021/06/27 21:57:42 marvel.go:96: MARVEL.GetCharacters, Getting offset: 420 
+INFO: 2021/06/27 21:57:43 marvel.go:96: MARVEL.GetCharacters, Getting offset: 440 
+INFO: 2021/06/27 21:57:44 marvel.go:96: MARVEL.GetCharacters, Getting offset: 460 
+INFO: 2021/06/27 21:57:44 marvel.go:96: MARVEL.GetCharacters, Getting offset: 480 
+INFO: 2021/06/27 21:57:45 marvel.go:96: MARVEL.GetCharacters, Getting offset: 500 
+INFO: 2021/06/27 21:57:46 marvel.go:96: MARVEL.GetCharacters, Getting offset: 520 
+INFO: 2021/06/27 21:57:46 marvel.go:96: MARVEL.GetCharacters, Getting offset: 540 
+INFO: 2021/06/27 21:57:47 marvel.go:96: MARVEL.GetCharacters, Getting offset: 560 
+INFO: 2021/06/27 21:57:48 marvel.go:96: MARVEL.GetCharacters, Getting offset: 580 
+INFO: 2021/06/27 21:57:48 marvel.go:96: MARVEL.GetCharacters, Getting offset: 600 
+INFO: 2021/06/27 21:57:49 marvel.go:96: MARVEL.GetCharacters, Getting offset: 620 
+INFO: 2021/06/27 21:57:50 marvel.go:96: MARVEL.GetCharacters, Getting offset: 640 
+INFO: 2021/06/27 21:57:51 marvel.go:96: MARVEL.GetCharacters, Getting offset: 660 
+INFO: 2021/06/27 21:57:51 marvel.go:96: MARVEL.GetCharacters, Getting offset: 680 
+INFO: 2021/06/27 21:57:52 marvel.go:96: MARVEL.GetCharacters, Getting offset: 700 
+INFO: 2021/06/27 21:57:53 marvel.go:96: MARVEL.GetCharacters, Getting offset: 720 
+INFO: 2021/06/27 21:57:53 marvel.go:96: MARVEL.GetCharacters, Getting offset: 740 
+INFO: 2021/06/27 21:57:54 marvel.go:96: MARVEL.GetCharacters, Getting offset: 760 
+INFO: 2021/06/27 21:57:55 marvel.go:96: MARVEL.GetCharacters, Getting offset: 780 
+INFO: 2021/06/27 21:57:55 marvel.go:96: MARVEL.GetCharacters, Getting offset: 800 
+INFO: 2021/06/27 21:57:56 marvel.go:96: MARVEL.GetCharacters, Getting offset: 820 
+INFO: 2021/06/27 21:57:57 marvel.go:96: MARVEL.GetCharacters, Getting offset: 840 
+INFO: 2021/06/27 21:57:57 marvel.go:96: MARVEL.GetCharacters, Getting offset: 860 
+INFO: 2021/06/27 21:57:58 marvel.go:96: MARVEL.GetCharacters, Getting offset: 880 
+INFO: 2021/06/27 21:57:59 marvel.go:96: MARVEL.GetCharacters, Getting offset: 900 
+INFO: 2021/06/27 21:58:01 marvel.go:96: MARVEL.GetCharacters, Getting offset: 920 
+INFO: 2021/06/27 21:58:03 marvel.go:96: MARVEL.GetCharacters, Getting offset: 940 
+INFO: 2021/06/27 21:58:03 marvel.go:96: MARVEL.GetCharacters, Getting offset: 960 
+INFO: 2021/06/27 21:58:04 marvel.go:96: MARVEL.GetCharacters, Getting offset: 980 
+INFO: 2021/06/27 21:58:05 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1000 
+INFO: 2021/06/27 21:58:06 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1020 
+INFO: 2021/06/27 21:58:06 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1040 
+INFO: 2021/06/27 21:58:07 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1060 
+INFO: 2021/06/27 21:58:08 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1080 
+INFO: 2021/06/27 21:58:08 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1100 
+INFO: 2021/06/27 21:58:09 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1120 
+INFO: 2021/06/27 21:58:10 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1140 
+INFO: 2021/06/27 21:58:10 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1160 
+INFO: 2021/06/27 21:58:11 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1180 
+INFO: 2021/06/27 21:58:12 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1200 
+INFO: 2021/06/27 21:58:12 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1220 
+INFO: 2021/06/27 21:58:13 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1240 
+INFO: 2021/06/27 21:58:14 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1260 
+INFO: 2021/06/27 21:58:15 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1280 
+INFO: 2021/06/27 21:58:15 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1300 
+INFO: 2021/06/27 21:58:16 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1320 
+INFO: 2021/06/27 21:58:17 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1340 
+INFO: 2021/06/27 21:58:18 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1360 
+INFO: 2021/06/27 21:58:18 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1380 
+INFO: 2021/06/27 21:58:19 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1400 
+INFO: 2021/06/27 21:58:21 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1420 
+INFO: 2021/06/27 21:58:22 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1440 
+INFO: 2021/06/27 21:58:22 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1460 
+INFO: 2021/06/27 21:58:23 marvel.go:96: MARVEL.GetCharacters, Getting offset: 1480 
+INFO: 2021/06/27 21:58:23 service.go:51: RESULT from marvel server, length 1493
+INFO: 2021/06/27 21:58:23 service.go:62: Setting to REDIS cache server, key: characters
+INFO: 2021/06/27 21:58:23 service.go:85: Getting character with id: 1011113
+INFO: 2021/06/27 21:59:37 main.go:110: Serving at localhost:8080
+INFO: 2021/06/27 21:59:57 main.go:110: Serving at localhost:8080
+INFO: 2021/06/27 22:00:01 service.go:85: Getting character with id: 1011227
+INFO: 2021/06/27 22:00:03 service.go:85: Getting character with id: 1011227
+INFO: 2021/06/27 22:00:06 service.go:85: Getting character with id: 1011227
